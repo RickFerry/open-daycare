@@ -1,0 +1,7 @@
+[     113ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/crear-publicacion?_rsc=5CB68i4pnAekjehf:0
+[     113ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/ninos?_rsc=5CB68i4pnAekjehf:0
+[     113ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/avisos?_rsc=5CB68i4pnAekjehf:0
+[     113ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/mi-cuenta?_rsc=5CB68i4pnAekjehf:0
+[     117ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/login?_rsc=5CB68i4pnAekjehf:0
+[     120ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/detalle-publicacion?_rsc=5CB68i4pnAekjehf:0
+[     186ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/foto?_rsc=5CB68i4pnAekjehf:0
