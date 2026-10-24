@@ -63,7 +63,7 @@ export default function Home() {
       </div>
 
       <Link
-        href="/crear-publicacion"
+        href="/posts/new"
         style={{
           display: "flex",
           alignItems: "center",
@@ -141,14 +141,14 @@ export default function Home() {
               </svg>
               3
             </span>
-            <Link href="/detalle-publicacion" style={commentLink}>
+            <Link href="/posts/detail" style={commentLink}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8z" />
               </svg>
               1
             </Link>
             <span style={{ flex: 1 }} />
-            <Link href="/crear-publicacion" style={editLink}>
+            <Link href="/posts/new" style={editLink}>
               Editar
             </Link>
           </div>
@@ -169,7 +169,7 @@ export default function Home() {
             Pintamos con témperas esta mañana. Mateo eligió el azul para todo y se concentró un montón mezclando colores.
           </p>
           <Link
-            href="/foto"
+            href="/photo"
             style={{
               display: "flex",
               flexDirection: "column",
@@ -198,14 +198,14 @@ export default function Home() {
               </svg>
               5
             </span>
-            <Link href="/detalle-publicacion" style={commentLink}>
+            <Link href="/posts/detail" style={commentLink}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8z" />
               </svg>
               2
             </Link>
             <span style={{ flex: 1 }} />
-            <Link href="/crear-publicacion" style={editLink}>
+            <Link href="/posts/new" style={editLink}>
               Editar
             </Link>
           </div>
@@ -248,14 +248,14 @@ export default function Home() {
               </svg>
               8
             </span>
-            <Link href="/detalle-publicacion" style={commentLink}>
+            <Link href="/posts/detail" style={commentLink}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8z" />
               </svg>
               0
             </Link>
             <span style={{ flex: 1 }} />
-            <Link href="/crear-publicacion" style={editLink}>
+            <Link href="/posts/new" style={editLink}>
               Editar
             </Link>
           </div>

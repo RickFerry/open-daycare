@@ -10,6 +10,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 a { text-decoration: none; color: inherit }
+input { font-family: inherit }
+input:focus { outline: none } /* shortcut: outline herdado do mock, revisitar no primeiro form real */
+::placeholder { color: #B6A99B }
 ::-webkit-scrollbar { width: 10px }
 ::-webkit-scrollbar-thumb {
   background: #E4D6C4;
